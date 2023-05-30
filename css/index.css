@@ -1,0 +1,20 @@
+
+h1 {
+    font-size: 30px;
+    color: brown;
+}
+body {
+    background: url(images/darkkk.jpg);
+    background-repeat: no-repeat;
+    background-size: 320vh;
+    background: cover ;
+    height: 100px;
+}
+p {
+    color: muted;
+    font-size: 20px;
+    font-family: italic;
+    font-size: 20px;
+    font-style: italic;
+    
+}

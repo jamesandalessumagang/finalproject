@@ -1,0 +1,29 @@
+body {
+   background: url(images/oc.jpg);
+   background-repeat: no-repeat;
+   background-size: 300vh;
+   background: cover;
+}
+.phar {
+   font-size: 30px;
+}
+.fa-youtube {
+   color: red;
+}
+.fa-google {
+   color: orangered;
+}
+.fa-messenger {
+   color: skyblue;
+}
+.fa-square-instagram {
+   color: palevioletred;
+}
+.fa-square-github {
+   color: black;
+}
+
+
+
+
+
